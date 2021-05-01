@@ -12,5 +12,7 @@ git fetch
 Git merge Kết hợp sự thay đổi của các commit kể từ lúc tách nhánh của nhánh hiện tại vào nhánh tách ra trước đó
 git merge destination_branch_name destination_branh_name: là tên nhánh bạn muốn merge vào nhánh hiện tại
 Git pull git pull = git fetch + merge
-git pull destination_branch_name
-*Review from Đỗ Ngọc Anh (Trưởng nhóm): Bài tóm tắt của bạn khá đầy đủ, trình bày rõ ràng.
+
+triết nhận xét: 
+- bạn nên ghi tác dụng cuar git checkout và git switch 
+- và còn git fetch bạn ko ghi 
